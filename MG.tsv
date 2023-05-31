@@ -337,7 +337,7 @@ Gene: Hagh	Type_Where: Enterocyte_villi	-0.803073	-0.990959	-0.939115	0.883914	0
 Gene: Hadh	Type_Where: Enterocyte_villi	-0.95789	-0.822202	-0.95407	0.945388	0.930198	0.858577
 Gene: Cideb	Type_Where: Enterocyte_villi	0.262112	0.277722	-2.02836	0.516907	0.504339	0.467284
 Gene: Idh1	Type_Where: Enterocyte_villi	-0.962824	-0.79944	-0.97	0.856732	0.928666	0.946866
-Gene: 37316	Type_Where: Enterocyte_villi	-0.957969	-0.789784	-0.984629	0.897347	0.925655	0.90938
+Gene: Mtarc2	Type_Where: Enterocyte_villi	-0.957969	-0.789784	-0.984629	0.897347	0.925655	0.90938
 Gene: Acaa1a	Type_Where: Enterocyte_villi	-0.874806	-0.919026	-0.94344	0.952575	0.897769	0.886927
 Gene: Akr1b7	Type_Where: Enterocyte_villi	-0.922969	-0.905937	-0.90905	0.951209	0.891644	0.895102
 Gene: Ehhadh	Type_Where: Enterocyte_villi	-0.888654	-0.862331	-0.98372	0.974605	0.871701	0.888399
