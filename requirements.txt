@@ -9,3 +9,4 @@ jupyter_client
 jupyter_core        
 jupyterlab          
 notebook            
+numpy==1.25.0
